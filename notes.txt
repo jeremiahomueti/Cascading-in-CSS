@@ -1,0 +1,14 @@
+ALL that cascading in CSS really means is that:
+
+"The order our styles are arranged in actually matters."
+
+h1 {
+    color: red;
+}
+
+h1 {
+    color: purple;
+}
+
+
+PURPLE WINS!!!🥳🥳🥳
